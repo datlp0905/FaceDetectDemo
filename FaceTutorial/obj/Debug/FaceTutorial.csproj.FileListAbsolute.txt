@@ -1,0 +1,44 @@
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial_MarkupCompile.cache
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.g.resources
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.Properties.Resources.resources
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\FaceTutorial.exe.config
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\FaceTutorial.exe
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\FaceTutorial.pdb
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.csproj.CopyComplete
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.exe
+C:\Users\Dell\Documents\FaceTutorial\FaceTutorial\obj\Debug\FaceTutorial.pdb
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\FaceTutorial.exe.config
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\FaceTutorial.exe
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\FaceTutorial.pdb
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Dell\Desktop\New folder\FaceTutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial_MarkupCompile.cache
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.g.resources
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.exe
+C:\Users\Dell\Desktop\New folder\FaceTutorial\obj\Debug\FaceTutorial.pdb
